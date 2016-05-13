@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Ruta]]></title>
         <description><![CDATA[Ruta]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ruta/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 21:58:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 13 May 2016 22:02:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ruta/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Ruta Sakalauskaite</p>]]></description>
-            <link>undefinedruta-sakalauskaite/index.html</link>
+            <link>https://thegrid.ai/ruta/ruta-sakalauskaite/index.html</link>
             <guid isPermaLink="false">81501a16-cea3-4b98-b7c7-7b4978308f31</guid>
-            <pubDate>Fri, 13 May 2016 21:58:30 GMT</pubDate>
+            <pubDate>Fri, 13 May 2016 22:02:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
